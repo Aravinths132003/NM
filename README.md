@@ -1,6 +1,6 @@
 # Earthquake-prediction-using-Machine-learning-models
 
-A project done for the course Naan Mudhalvan under <b>Aravinth S </b>
+A project done for Naan Mudhalvan course of Generative AI  under <b>Aravinth S </b>
 
 <h2>Abstract</h2>
 Earthquakes are natural disasters that can cause significant damage and loss of life. Accurate prediction of earthquakes is essential for developing early warning systems, disaster planning, risk assessment, and scientific research.
