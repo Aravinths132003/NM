@@ -1,6 +1,6 @@
 # Earthquake-prediction-using-Machine-learning-models
 
-A project done for the course CSE3505 - Essentials of Data Analytics under <b>Aravinth S M</b>
+A project done for the course CSE3505 - Essentials of Data Analytics under <b>Aravinth S </b>
 
 <h2>Abstract</h2>
 Earthquakes are natural disasters that can cause significant damage and loss of life. Accurate prediction of earthquakes is essential for developing early warning systems, disaster planning, risk assessment, and scientific research.
